@@ -1,0 +1,224 @@
+C:\Users\MuhendisBey\source\repos\webTarim\webTarim\bin\webTarim.dll.config
+C:\Users\MuhendisBey\source\repos\webTarim\webTarim\bin\webTarim.dll
+C:\Users\MuhendisBey\source\repos\webTarim\webTarim\bin\webTarim.pdb
+C:\Users\MuhendisBey\source\repos\webTarim\webTarim\bin\roslyn\csc.exe
+C:\Users\MuhendisBey\source\repos\webTarim\webTarim\bin\roslyn\csc.exe.config
+C:\Users\MuhendisBey\source\repos\webTarim\webTarim\bin\roslyn\csc.rsp
+C:\Users\MuhendisBey\source\repos\webTarim\webTarim\bin\roslyn\csi.exe
+C:\Users\MuhendisBey\source\repos\webTarim\webTarim\bin\roslyn\csi.exe.config
+C:\Users\MuhendisBey\source\repos\webTarim\webTarim\bin\roslyn\csi.rsp
+C:\Users\MuhendisBey\source\repos\webTarim\webTarim\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\MuhendisBey\source\repos\webTarim\webTarim\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\MuhendisBey\source\repos\webTarim\webTarim\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\MuhendisBey\source\repos\webTarim\webTarim\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\MuhendisBey\source\repos\webTarim\webTarim\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\MuhendisBey\source\repos\webTarim\webTarim\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\MuhendisBey\source\repos\webTarim\webTarim\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\MuhendisBey\source\repos\webTarim\webTarim\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\MuhendisBey\source\repos\webTarim\webTarim\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\MuhendisBey\source\repos\webTarim\webTarim\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\MuhendisBey\source\repos\webTarim\webTarim\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\MuhendisBey\source\repos\webTarim\webTarim\bin\roslyn\System.AppContext.dll
+C:\Users\MuhendisBey\source\repos\webTarim\webTarim\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\MuhendisBey\source\repos\webTarim\webTarim\bin\roslyn\System.Console.dll
+C:\Users\MuhendisBey\source\repos\webTarim\webTarim\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\MuhendisBey\source\repos\webTarim\webTarim\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\MuhendisBey\source\repos\webTarim\webTarim\bin\roslyn\System.IO.Compression.dll
+C:\Users\MuhendisBey\source\repos\webTarim\webTarim\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\MuhendisBey\source\repos\webTarim\webTarim\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\MuhendisBey\source\repos\webTarim\webTarim\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\MuhendisBey\source\repos\webTarim\webTarim\bin\roslyn\System.IO.Pipes.dll
+C:\Users\MuhendisBey\source\repos\webTarim\webTarim\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\MuhendisBey\source\repos\webTarim\webTarim\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\MuhendisBey\source\repos\webTarim\webTarim\bin\roslyn\System.Security.Claims.dll
+C:\Users\MuhendisBey\source\repos\webTarim\webTarim\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\MuhendisBey\source\repos\webTarim\webTarim\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\MuhendisBey\source\repos\webTarim\webTarim\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\MuhendisBey\source\repos\webTarim\webTarim\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\MuhendisBey\source\repos\webTarim\webTarim\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\MuhendisBey\source\repos\webTarim\webTarim\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\MuhendisBey\source\repos\webTarim\webTarim\bin\roslyn\System.ValueTuple.dll
+C:\Users\MuhendisBey\source\repos\webTarim\webTarim\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\MuhendisBey\source\repos\webTarim\webTarim\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\MuhendisBey\source\repos\webTarim\webTarim\bin\roslyn\System.Xml.XPath.dll
+C:\Users\MuhendisBey\source\repos\webTarim\webTarim\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\MuhendisBey\source\repos\webTarim\webTarim\bin\roslyn\vbc.exe
+C:\Users\MuhendisBey\source\repos\webTarim\webTarim\bin\roslyn\vbc.exe.config
+C:\Users\MuhendisBey\source\repos\webTarim\webTarim\bin\roslyn\vbc.rsp
+C:\Users\MuhendisBey\source\repos\webTarim\webTarim\bin\roslyn\VBCSCompiler.exe
+C:\Users\MuhendisBey\source\repos\webTarim\webTarim\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\MuhendisBey\source\repos\webTarim\webTarim\bin\Antlr3.Runtime.dll
+C:\Users\MuhendisBey\source\repos\webTarim\webTarim\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\MuhendisBey\source\repos\webTarim\webTarim\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\MuhendisBey\source\repos\webTarim\webTarim\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\MuhendisBey\source\repos\webTarim\webTarim\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\MuhendisBey\source\repos\webTarim\webTarim\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\MuhendisBey\source\repos\webTarim\webTarim\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\MuhendisBey\source\repos\webTarim\webTarim\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\MuhendisBey\source\repos\webTarim\webTarim\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\MuhendisBey\source\repos\webTarim\webTarim\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\MuhendisBey\source\repos\webTarim\webTarim\bin\Newtonsoft.Json.dll
+C:\Users\MuhendisBey\source\repos\webTarim\webTarim\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\MuhendisBey\source\repos\webTarim\webTarim\bin\System.Web.Optimization.dll
+C:\Users\MuhendisBey\source\repos\webTarim\webTarim\bin\WebGrease.dll
+C:\Users\MuhendisBey\source\repos\webTarim\webTarim\bin\System.Web.Optimization.xml
+C:\Users\MuhendisBey\source\repos\webTarim\webTarim\bin\Newtonsoft.Json.xml
+C:\Users\MuhendisBey\source\repos\webTarim\webTarim\bin\Antlr3.Runtime.pdb
+C:\Users\MuhendisBey\source\repos\webTarim\webTarim\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\MuhendisBey\source\repos\webTarim\webTarim\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\MuhendisBey\source\repos\webTarim\webTarim\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\MuhendisBey\source\repos\webTarim\webTarim\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\MuhendisBey\source\repos\webTarim\webTarim\obj\Debug\webTarim.csprojAssemblyReference.cache
+C:\Users\MuhendisBey\source\repos\webTarim\webTarim\obj\Debug\webTarim.csproj.CoreCompileInputs.cache
+C:\Users\MuhendisBey\source\repos\webTarim\webTarim\obj\Debug\webTarim.csproj.CopyComplete
+C:\Users\MuhendisBey\source\repos\webTarim\webTarim\obj\Debug\webTarim.dll
+C:\Users\MuhendisBey\source\repos\webTarim\webTarim\obj\Debug\webTarim.pdb
+C:\Users\SULTAN GENCER\Desktop\yazılım web\webTarim\webTarim\webTarim\bin\webTarim.dll.config
+C:\Users\SULTAN GENCER\Desktop\yazılım web\webTarim\webTarim\webTarim\bin\webTarim.dll
+C:\Users\SULTAN GENCER\Desktop\yazılım web\webTarim\webTarim\webTarim\bin\webTarim.pdb
+C:\Users\SULTAN GENCER\Desktop\yazılım web\webTarim\webTarim\webTarim\bin\roslyn\csc.exe
+C:\Users\SULTAN GENCER\Desktop\yazılım web\webTarim\webTarim\webTarim\bin\roslyn\csc.exe.config
+C:\Users\SULTAN GENCER\Desktop\yazılım web\webTarim\webTarim\webTarim\bin\roslyn\csc.rsp
+C:\Users\SULTAN GENCER\Desktop\yazılım web\webTarim\webTarim\webTarim\bin\roslyn\csi.exe
+C:\Users\SULTAN GENCER\Desktop\yazılım web\webTarim\webTarim\webTarim\bin\roslyn\csi.exe.config
+C:\Users\SULTAN GENCER\Desktop\yazılım web\webTarim\webTarim\webTarim\bin\roslyn\csi.rsp
+C:\Users\SULTAN GENCER\Desktop\yazılım web\webTarim\webTarim\webTarim\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\SULTAN GENCER\Desktop\yazılım web\webTarim\webTarim\webTarim\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\SULTAN GENCER\Desktop\yazılım web\webTarim\webTarim\webTarim\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\SULTAN GENCER\Desktop\yazılım web\webTarim\webTarim\webTarim\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\SULTAN GENCER\Desktop\yazılım web\webTarim\webTarim\webTarim\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\SULTAN GENCER\Desktop\yazılım web\webTarim\webTarim\webTarim\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\SULTAN GENCER\Desktop\yazılım web\webTarim\webTarim\webTarim\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\SULTAN GENCER\Desktop\yazılım web\webTarim\webTarim\webTarim\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\SULTAN GENCER\Desktop\yazılım web\webTarim\webTarim\webTarim\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\SULTAN GENCER\Desktop\yazılım web\webTarim\webTarim\webTarim\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\SULTAN GENCER\Desktop\yazılım web\webTarim\webTarim\webTarim\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\SULTAN GENCER\Desktop\yazılım web\webTarim\webTarim\webTarim\bin\roslyn\System.AppContext.dll
+C:\Users\SULTAN GENCER\Desktop\yazılım web\webTarim\webTarim\webTarim\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\SULTAN GENCER\Desktop\yazılım web\webTarim\webTarim\webTarim\bin\roslyn\System.Console.dll
+C:\Users\SULTAN GENCER\Desktop\yazılım web\webTarim\webTarim\webTarim\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\SULTAN GENCER\Desktop\yazılım web\webTarim\webTarim\webTarim\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\SULTAN GENCER\Desktop\yazılım web\webTarim\webTarim\webTarim\bin\roslyn\System.IO.Compression.dll
+C:\Users\SULTAN GENCER\Desktop\yazılım web\webTarim\webTarim\webTarim\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\SULTAN GENCER\Desktop\yazılım web\webTarim\webTarim\webTarim\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\SULTAN GENCER\Desktop\yazılım web\webTarim\webTarim\webTarim\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\SULTAN GENCER\Desktop\yazılım web\webTarim\webTarim\webTarim\bin\roslyn\System.IO.Pipes.dll
+C:\Users\SULTAN GENCER\Desktop\yazılım web\webTarim\webTarim\webTarim\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\SULTAN GENCER\Desktop\yazılım web\webTarim\webTarim\webTarim\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\SULTAN GENCER\Desktop\yazılım web\webTarim\webTarim\webTarim\bin\roslyn\System.Security.Claims.dll
+C:\Users\SULTAN GENCER\Desktop\yazılım web\webTarim\webTarim\webTarim\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\SULTAN GENCER\Desktop\yazılım web\webTarim\webTarim\webTarim\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\SULTAN GENCER\Desktop\yazılım web\webTarim\webTarim\webTarim\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\SULTAN GENCER\Desktop\yazılım web\webTarim\webTarim\webTarim\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\SULTAN GENCER\Desktop\yazılım web\webTarim\webTarim\webTarim\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\SULTAN GENCER\Desktop\yazılım web\webTarim\webTarim\webTarim\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\SULTAN GENCER\Desktop\yazılım web\webTarim\webTarim\webTarim\bin\roslyn\System.ValueTuple.dll
+C:\Users\SULTAN GENCER\Desktop\yazılım web\webTarim\webTarim\webTarim\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\SULTAN GENCER\Desktop\yazılım web\webTarim\webTarim\webTarim\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\SULTAN GENCER\Desktop\yazılım web\webTarim\webTarim\webTarim\bin\roslyn\System.Xml.XPath.dll
+C:\Users\SULTAN GENCER\Desktop\yazılım web\webTarim\webTarim\webTarim\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\SULTAN GENCER\Desktop\yazılım web\webTarim\webTarim\webTarim\bin\roslyn\vbc.exe
+C:\Users\SULTAN GENCER\Desktop\yazılım web\webTarim\webTarim\webTarim\bin\roslyn\vbc.exe.config
+C:\Users\SULTAN GENCER\Desktop\yazılım web\webTarim\webTarim\webTarim\bin\roslyn\vbc.rsp
+C:\Users\SULTAN GENCER\Desktop\yazılım web\webTarim\webTarim\webTarim\bin\roslyn\VBCSCompiler.exe
+C:\Users\SULTAN GENCER\Desktop\yazılım web\webTarim\webTarim\webTarim\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\SULTAN GENCER\Desktop\yazılım web\webTarim\webTarim\webTarim\bin\Antlr3.Runtime.dll
+C:\Users\SULTAN GENCER\Desktop\yazılım web\webTarim\webTarim\webTarim\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\SULTAN GENCER\Desktop\yazılım web\webTarim\webTarim\webTarim\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\SULTAN GENCER\Desktop\yazılım web\webTarim\webTarim\webTarim\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\SULTAN GENCER\Desktop\yazılım web\webTarim\webTarim\webTarim\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\SULTAN GENCER\Desktop\yazılım web\webTarim\webTarim\webTarim\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\SULTAN GENCER\Desktop\yazılım web\webTarim\webTarim\webTarim\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\SULTAN GENCER\Desktop\yazılım web\webTarim\webTarim\webTarim\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\SULTAN GENCER\Desktop\yazılım web\webTarim\webTarim\webTarim\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\SULTAN GENCER\Desktop\yazılım web\webTarim\webTarim\webTarim\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\SULTAN GENCER\Desktop\yazılım web\webTarim\webTarim\webTarim\bin\Newtonsoft.Json.dll
+C:\Users\SULTAN GENCER\Desktop\yazılım web\webTarim\webTarim\webTarim\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\SULTAN GENCER\Desktop\yazılım web\webTarim\webTarim\webTarim\bin\System.Web.Optimization.dll
+C:\Users\SULTAN GENCER\Desktop\yazılım web\webTarim\webTarim\webTarim\bin\WebGrease.dll
+C:\Users\SULTAN GENCER\Desktop\yazılım web\webTarim\webTarim\webTarim\bin\System.Web.Optimization.xml
+C:\Users\SULTAN GENCER\Desktop\yazılım web\webTarim\webTarim\webTarim\bin\Newtonsoft.Json.xml
+C:\Users\SULTAN GENCER\Desktop\yazılım web\webTarim\webTarim\webTarim\bin\Antlr3.Runtime.pdb
+C:\Users\SULTAN GENCER\Desktop\yazılım web\webTarim\webTarim\webTarim\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\SULTAN GENCER\Desktop\yazılım web\webTarim\webTarim\webTarim\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\SULTAN GENCER\Desktop\yazılım web\webTarim\webTarim\webTarim\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\SULTAN GENCER\Desktop\yazılım web\webTarim\webTarim\webTarim\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\SULTAN GENCER\Desktop\yazılım web\webTarim\webTarim\webTarim\obj\Debug\webTarim.csprojAssemblyReference.cache
+C:\Users\SULTAN GENCER\Desktop\yazılım web\webTarim\webTarim\webTarim\obj\Debug\webTarim.csproj.CoreCompileInputs.cache
+C:\Users\SULTAN GENCER\Desktop\yazılım web\webTarim\webTarim\webTarim\obj\Debug\webTarim.csproj.CopyComplete
+C:\Users\SULTAN GENCER\Desktop\yazılım web\webTarim\webTarim\webTarim\obj\Debug\webTarim.dll
+C:\Users\SULTAN GENCER\Desktop\yazılım web\webTarim\webTarim\webTarim\obj\Debug\webTarim.pdb
+C:\Users\User\Desktop\webTarim\webTarim\webTarim\bin\webTarim.dll.config
+C:\Users\User\Desktop\webTarim\webTarim\webTarim\bin\webTarim.dll
+C:\Users\User\Desktop\webTarim\webTarim\webTarim\bin\webTarim.pdb
+C:\Users\User\Desktop\webTarim\webTarim\webTarim\bin\roslyn\csc.exe
+C:\Users\User\Desktop\webTarim\webTarim\webTarim\bin\roslyn\csc.exe.config
+C:\Users\User\Desktop\webTarim\webTarim\webTarim\bin\roslyn\csc.rsp
+C:\Users\User\Desktop\webTarim\webTarim\webTarim\bin\roslyn\csi.exe
+C:\Users\User\Desktop\webTarim\webTarim\webTarim\bin\roslyn\csi.exe.config
+C:\Users\User\Desktop\webTarim\webTarim\webTarim\bin\roslyn\csi.rsp
+C:\Users\User\Desktop\webTarim\webTarim\webTarim\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\Desktop\webTarim\webTarim\webTarim\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Desktop\webTarim\webTarim\webTarim\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\User\Desktop\webTarim\webTarim\webTarim\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\Desktop\webTarim\webTarim\webTarim\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\User\Desktop\webTarim\webTarim\webTarim\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\Desktop\webTarim\webTarim\webTarim\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\Desktop\webTarim\webTarim\webTarim\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\User\Desktop\webTarim\webTarim\webTarim\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\User\Desktop\webTarim\webTarim\webTarim\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\User\Desktop\webTarim\webTarim\webTarim\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\Desktop\webTarim\webTarim\webTarim\bin\roslyn\System.AppContext.dll
+C:\Users\User\Desktop\webTarim\webTarim\webTarim\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\Desktop\webTarim\webTarim\webTarim\bin\roslyn\System.Console.dll
+C:\Users\User\Desktop\webTarim\webTarim\webTarim\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\User\Desktop\webTarim\webTarim\webTarim\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\User\Desktop\webTarim\webTarim\webTarim\bin\roslyn\System.IO.Compression.dll
+C:\Users\User\Desktop\webTarim\webTarim\webTarim\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\User\Desktop\webTarim\webTarim\webTarim\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\User\Desktop\webTarim\webTarim\webTarim\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\User\Desktop\webTarim\webTarim\webTarim\bin\roslyn\System.IO.Pipes.dll
+C:\Users\User\Desktop\webTarim\webTarim\webTarim\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\Desktop\webTarim\webTarim\webTarim\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\User\Desktop\webTarim\webTarim\webTarim\bin\roslyn\System.Security.Claims.dll
+C:\Users\User\Desktop\webTarim\webTarim\webTarim\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\User\Desktop\webTarim\webTarim\webTarim\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\User\Desktop\webTarim\webTarim\webTarim\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\User\Desktop\webTarim\webTarim\webTarim\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\User\Desktop\webTarim\webTarim\webTarim\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\User\Desktop\webTarim\webTarim\webTarim\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\User\Desktop\webTarim\webTarim\webTarim\bin\roslyn\System.ValueTuple.dll
+C:\Users\User\Desktop\webTarim\webTarim\webTarim\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\User\Desktop\webTarim\webTarim\webTarim\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\User\Desktop\webTarim\webTarim\webTarim\bin\roslyn\System.Xml.XPath.dll
+C:\Users\User\Desktop\webTarim\webTarim\webTarim\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\User\Desktop\webTarim\webTarim\webTarim\bin\roslyn\vbc.exe
+C:\Users\User\Desktop\webTarim\webTarim\webTarim\bin\roslyn\vbc.exe.config
+C:\Users\User\Desktop\webTarim\webTarim\webTarim\bin\roslyn\vbc.rsp
+C:\Users\User\Desktop\webTarim\webTarim\webTarim\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\Desktop\webTarim\webTarim\webTarim\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\Desktop\webTarim\webTarim\webTarim\bin\Antlr3.Runtime.dll
+C:\Users\User\Desktop\webTarim\webTarim\webTarim\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\User\Desktop\webTarim\webTarim\webTarim\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\User\Desktop\webTarim\webTarim\webTarim\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\User\Desktop\webTarim\webTarim\webTarim\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\User\Desktop\webTarim\webTarim\webTarim\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\User\Desktop\webTarim\webTarim\webTarim\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Desktop\webTarim\webTarim\webTarim\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\User\Desktop\webTarim\webTarim\webTarim\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\User\Desktop\webTarim\webTarim\webTarim\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Desktop\webTarim\webTarim\webTarim\bin\Newtonsoft.Json.dll
+C:\Users\User\Desktop\webTarim\webTarim\webTarim\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Desktop\webTarim\webTarim\webTarim\bin\System.Web.Optimization.dll
+C:\Users\User\Desktop\webTarim\webTarim\webTarim\bin\WebGrease.dll
+C:\Users\User\Desktop\webTarim\webTarim\webTarim\bin\System.Web.Optimization.xml
+C:\Users\User\Desktop\webTarim\webTarim\webTarim\bin\Newtonsoft.Json.xml
+C:\Users\User\Desktop\webTarim\webTarim\webTarim\bin\Antlr3.Runtime.pdb
+C:\Users\User\Desktop\webTarim\webTarim\webTarim\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\User\Desktop\webTarim\webTarim\webTarim\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\User\Desktop\webTarim\webTarim\webTarim\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\User\Desktop\webTarim\webTarim\webTarim\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Desktop\webTarim\webTarim\webTarim\obj\Debug\webTarim.csprojAssemblyReference.cache
+C:\Users\User\Desktop\webTarim\webTarim\webTarim\obj\Debug\webTarim.csproj.CopyComplete
+C:\Users\User\Desktop\webTarim\webTarim\webTarim\obj\Debug\webTarim.dll
+C:\Users\User\Desktop\webTarim\webTarim\webTarim\obj\Debug\webTarim.pdb
